@@ -1,0 +1,25 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p169.tti
+PN,16900
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 169  Tue 23 Dec C17:01/00
+OL,1,T]CNOS  |||h4          |          G22/36
+OL,2,T]CNEEDSpsjup`pp`0pju  C              
+OL,3,T]CTOS  | j5j5j5j5 / C YOU SAY...   
+OL,4,  S     ///*%/*-/*-/*- / F              
+OL,6,CLen Masters writes from Cornwall:      
+OL,8,FThe pages about going to the doctor    
+OL,9,Frecently interested me as I have had   
+OL,10,Fsome experience of this.               
+OL,12,FMy doctor calls the next patient over  
+OL,13,Fthe intercom. Of course I can't hear   
+OL,14,Fthis so I just sit there in the        
+OL,15,Fwaiting room.                          
+OL,17,FOr I used to. The receptionist now     
+OL,18,Fknows that I am deaf and always        
+OL,19,Ffetches me.                            
+OL,23,T]S,,,,,,,,,,,,,,,,,CMore in a moment...

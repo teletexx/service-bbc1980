@@ -1,0 +1,32 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p189.tti
+PN,18900
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 189  Tue 23 Dec C17:01/06
+OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,2,S+%k5k%{5oz%CTOURIST EXCHANGE RATES 
+OL,3,S#!z5k5x4k5FEFFECTIVE DECEMBER 18  
+OL,4,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,5,CNational Westminster Approximate Rates 
+OL,6,FAustralia   C   1.975      Fdollars    
+OL,7,FAustria     C  32.25       Fschillings 
+OL,8,FBelgium     C  73.75       Ffrancs     
+OL,9,FCanada      C   2.785      Fdollars    
+OL,10,FDenmark     C  14.07       Fkroner     
+OL,11,FFrance      C  10.59       Ffrancs     
+OL,12,FGreece      C 123.50       Fdrachmas   
+OL,13,FHolland     C   4.98       Fguilders   
+OL,14,FItaly       C2165.00       Flire       
+OL,15,FJapan       CC483.00       Fyen        
+OL,16,FNorway      C  11.92       Fkroner     
+OL,17,FPortugal    C 123.25       Fescudos    
+OL,18,FSouth AfricaC   1.83       Frand       
+OL,19,FSpain       C 180.50       Fpesetas    
+OL,20,FSweden      C  10.27       Fkronor     
+OL,21,FSwitzerland C   4.16       Ffrancs     
+OL,22,FUnited StatesC  2.3025     Fdollars    
+OL,23,FWest GermanyC   4.59       Fmarks      

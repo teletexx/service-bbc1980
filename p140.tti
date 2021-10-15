@@ -1,0 +1,26 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p140.tti
+PN,14000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 140  Tue 23 Dec C17:01/10
+OL,1,T]Wppppppp0Rpp0ppp`pp0ppp`pp0Wppppppp0
+OL,2,T]Q|||||||4R/l4pj5j5p? j5 Q|||||||4
+OL,3,T]W,,,,,,,$R,.%/  *-.%/ / *% W,,,,,,,$
+OL,5,BCRICKETFPace battery rocks PakistanG156
+OL,6,        FIndia pip Kiwis by six runsG157
+OL,7,        FLancs warning for hooligansG154
+OL,8,        FChristmas at the wicketG....155
+OL,10,BFOOTBALLFHarford to join NewcastleG.143
+OL,11,         FStock hands over to WebbG..144
+OL,12,         FMayes signs for ChelseaG...141
+OL,14,BRUGBY UNIONFRift with BARLA narrowsG151
+OL,16,BBOXINGFHigh noon at Coventry showG..149
+OL,18,BIN BRIEFFBoxing...Rugby....CricketG.158
+OL,20,BTENNISFCentres for youngstersG......153
+OL,23,T]Q,,,,,,CFestive sportG227 BBC2Q,,,,,,
+OL,24,ANext  BFinance  CSport   FWeather
+FL,160,120,140,180,8ff,8ff

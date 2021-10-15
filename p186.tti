@@ -1,0 +1,24 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p186.tti
+PN,18600
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 186  Tue 23 Dec C17:01/05
+OL,1,T]Sh|||||||||||||||||<,,,,,,,,,,,,G 1/4 
+OL,2,T]Sj} ~ $z $j 5j l5j5CLAKER         Sj 
+OL,3,T]Sjppuzpuztp~psur{5CSKYTRAIN      Sj 
+OL,4,T]S*/////////////////-,,,,,,,,,,,,,,,,. 
+OL,6,CLaker Skytrain walk-on seats           
+OL,7,Cat 1000 today:                         
+OL,9,G  TO             AT              SEATS 
+OL,10,MFNew York     1530 Dec 23        B 71  
+OL,13,MFLos Angeles  1200 & 1330 Dec 23 B236  
+OL,16,FMMiami        1400 Dec 29        B  7  
+OL,18,MF                                      
+OL,20,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,21,GHourly seat availability:G01-828 7766  
+OL,22,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+OL,23,T]CTWA standby information follows...   

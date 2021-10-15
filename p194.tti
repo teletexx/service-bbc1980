@@ -1,0 +1,33 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p194.tti
+PN,19400
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 194  Tue 23 Dec C17:01/08
+OL,1,R     4<0<0<hhFA-FG193V5BQuick guide to
+OL,2,BBBC1R555u5whiFP-ZG195V5BBBC1.....-G100
+OL,3,V,,,,,,,,,,,,,,,,l,,,,,-,,,,,,,,,,,,,,,,
+OL,4,FGilts......C #"VjFMoney market....C134
+OL,5,FGraphics...C192VjF
+OL,6,                Vj                     P
+OL,7,FHeadlines:     VjFNews:
+OL,8,F News......C101VjF Financial..C121-125
+OL,10,F Sport.....C160VjF In detail..C105-113
+OL,11,F               VjF Index..........C190
+OL,12,FIndex:         VjF Diary..........C117
+OL,13,     FA-F...C193VjF Newsflash......C150
+OL,14,F     G-O...C194VjF Newsreel.......C199
+OL,15,F     P-Z...C195VjFNo Need to ShoutC169
+OL,16,FITV tv.....C173VjF
+OL,17,F(TV Choice)C177VjF
+OL,18,            C   VjF
+OL,19,  F             VjF
+OL,20,FMeat pricesC163VjF
+OL,21,FMetal      C   VjF
+OL,22, Fprices....C137VjF
+OL,23,                VjF
+OL,24,ANext  BFinance  CSport   FWeather
+FL,195,120,140,180,8ff,8ff

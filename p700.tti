@@ -1,0 +1,32 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p700.tti
+PN,70000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 700  Tue 23 Dec C17:01/09
+OL,1,S]TZ|<,,,,l|||||||||||||||||||||||||||  
+OL,2,S]TZ!~}t0  ## {a k  
+OL,3,S]TZtz?'t  `x j  
+OL,4,S]TZ? z/'j j  
+OL,5,S]TZ% 4 j?at k j?at k  
+OL,6,S]TZ  o5 j?!?h~ j? ?`~  
+OL,7,S]TZ4 "% ?j?5 'x j5 'xa a  
+OL,8,S]TZ}0   #"!`}  //c *}  //c  
+OL,9,S]TZtppppx}ppp~px}ppp~  
+OL,10,S]TZ  
+OL,11,S]TZh|zhtjh|~|h~jj5h4h|j5|~  
+OL,12,S]TZr3kjj"s{  j55h|j |45h~  
+OL,13,S]TZ+%j*/j   /*%5jj 55*o  
+OL,14,S]TZ//////////////////////////////////  
+OL,15,Q]CMPages 701 & 2 carry an experimental 
+OL,16,Q]G                                     
+OL,17,Q]CMtelesoftware transmission.          
+OL,18,Q]G                                     
+OL,19,Q]CMThe computer language used is a     
+OL,20,I]G                                     
+OL,21,Q]CMdialect of BASIC.                   
+OL,22,Q]G                                     
+OL,23,Q]G                                     

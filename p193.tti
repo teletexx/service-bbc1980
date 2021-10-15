@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p193.tti
+PN,19300
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 193  Tue 23 Dec C17:01/07
+OL,1,R     4<0<0<hhFG-OG194V5BQuick guide to
+OL,2,BBBC1R555u5whiFP-ZG195V5BBBC1......G100
+OL,3,V,,,,,,,,,,,,,,,,,l,,,,-,,,,,,,,,,,,,,,,
+OL,4,FAir Travel..C186VjFEastern Market..C127
+OL,5,FAlarm Clock.C160VjFEngineering...C193-8
+OL,6,F                VjF
+OL,7,FBBC 1 tv....C171VjFFarming.........C168
+OL,8,FBBC 2 tv....C172VjFFilms on TV.....C175
+OL,9, F(Tomorrow's    VjFFinance:
+OL,10,F BBC tv)....C178VjF Diary..........C139
+OL,11,FBBC Open        VjFFHeadlines..... C120
+OL,12, FMeeting....C192VjF News.........C121-5
+OL,13,FBBC Radio...C174VjFFish Prices.....C164
+OL,14,FBBC Shopping    VjFFood: Index.....C161
+OL,15,F Basket.....C162VjF     FPrices..C162-6
+OL,16,FCEEFAX          VjF      Recipe....C267
+OL,17,F on show....C191VjFForeign
+OL,18,FCharivari...C119VjF Exchanges......C129
+OL,19,FCommodities.C138VjF Rates..........C135
+OL,20,FCompany         VjFFruit Prices....C166
+OL,21, FResults....C126VjFFT Index........C130
+OL,22,FFor the DeafC169Vj
+OL,23,FDiscount MktC134Vj
+OL,24,ANext  BFinance  CSport   FWeather
+FL,194,120,140,180,8ff,8ff              

@@ -1,0 +1,30 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p160.tti
+PN,16000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 160  Tue 23 Dec C17:01/00
+OL,1,KKS|,|h4 |,|h<l4|l||  |,|h4 |,|h<l4| |
+OL,2,KKS,j5 ,j=n1j5    j5  j5  ,w
+OL,3,KKS/ /*-$/ /*%*%/*%/  /,/*-$/,/*-.%/ /
+OL,5,FThe CEEFAX alarm clock can be used to
+OL,6,Fremind you when it's time to take the
+OL,7,Fdinner out of the oven - or to make
+OL,8,Fthat all-important telephone call.
+OL,9,FTo use the facility, simply follow
+OL,10,Fthis procedure:
+OL,12, F*GSelect either 160 (BBC 1) or 260
+OL,13,    (BBC 2)
+OL,14, F*GPress theF"Time Text"Gor "Time"
+OL,15,    button on your control pad
+OL,16, F*GSelect the time you want the alarm
+OL,17,    clock page to appear eg: 1730
+OL,18, F*GPress theF"Cancel"Gor "Update"
+OL,19,    button on your control pad
+OL,21,FAnd at your selected time, the alarm
+OL,22,Fclock will be displayed automatically.
+OL,24,ANext  BFinance  CSport   FWeather
+FL,169,120,140,180,8ff,8ff

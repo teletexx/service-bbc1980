@@ -1,0 +1,33 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p702.tti
+PN,70200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 702  Tue 23 Dec C17:01/11
+OL,25,Tp~'H}_AtI}+HTPLDBHP@BBAD@ @@@@@D@ED@@@~
+OL,28,UC@                                    @
+OL,1,30102045*2)2222%%)2Ym   ")2)R223050v045k
+OL,2,22     Y=Y+12 : IF Y<0 THEN Y=0 ELSE IF 
+OL,3,Y>71 THEN Y=71|T23     TXPOINT X,Y|424  
+OL,4, NEXT J. |925   P.=4.-4.*K./(I.+].)|.26 
+OL,5,  P$=NUM$(P.) : FOR I1]LEN(P$)+1 T. 10 :
+OL,6, P$=P$+" " :%NEXT I1 : L$=P$+L$|+v7   FO
+OL,7,R I1=1 TO 10|x48     PRINT CUR(21,0) MID
+OL,8,$(L$,LJNT-$)]55,45)|z2:)  %"L$=LJFT$h-$A
+OL,9,LJN(X$)-1)|n30   %*FOR I2]2 TO 1u0 : NEX
+OL,10,T I2 ||31   NEXT I1 |932   P1=INT(100.*(
+OL,11,P.-3.14159)+.5)|333   IF P1=0 THEN C=-1 
+OL,12,ELSE C=1|f34   X1=I./L.+13 : Y1=42+P1|+3
+OL,13,5   IF P1<u5 AND P1>-25 THEN IF NOT TXPO
+OL,14,IVT(XQ,Y2)RTHEN RXP/INR X1,Y1,C|e36 VEXT
+OL,15, I. |{37 PRJNT CUR(22,0) YEL "End of pro
+OL,16,gram - 0ress spacebar"|;38 IF SYS(5) THE
+OL,17,N2GETdS$)ELS- G_T_ 3y}<39 IF$A$<>")" THE
+OL,18,N GOTO 38|-40 GOTO 65531|}|             
+OL,19,   Y=60.*RND|=19     IF (X-30)^2+(Y-30)^
+OL,20,2<900 THEN GOTO 24|v20  2  K.=K.+1.|721 
+OL,21,    X=X-2 : IF X<0 THEN X=0 ELSE IF X>77
+OL,22, THEN X=77|z|                           

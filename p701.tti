@@ -1,0 +1,18 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p701.tti
+PN,70100
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 701  Tue 23 Dec C17:01/10
+OL,1,00001000!  TELESOFTWARE INDEX  00001000!
+OL,2,E]T,l<,   |        x,00 G               
+OL,3,E]T j5`<l0`<l0x,t($n= GTelesoftware   
+OL,4,E]T j5juz%*ur!   j5 Gand Education  
+OL,5,E]T j5j5h4h4j5   j50GProject        
+OL,6,E]T "! ## # ## "#! #  # G               
+OL,8,EM  Index to current programs           
+OL,10,TZ  #########################           
+OL,11,JH0IWPROGRAM0W702       )%              

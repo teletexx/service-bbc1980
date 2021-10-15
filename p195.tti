@@ -1,0 +1,32 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p195.tti
+PN,19500
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 195  Tue 23 Dec C17:01/08
+OL,1,R     4<0<0<hhFA-FG193V5BQuick guide to 
+OL,2,BBBC1R555u5whiFG-WG194V5BBBC1.......G1OO
+OL,3,V,,,,,,,,,,,,,,,,l,,,,,-,,,,,,,,,,,,,,,,
+OL,4,FPeople.....C118VjFTelevision: BBC1 C171
+OL,5,F               VjF BBC 2...........C172
+OL,6,                VjF ITV.............C173
+OL,7,FPrices:        Vj FTV Choice.......C177
+OL,8,F Food....C162-6Vj FTomorrow's BBC1.C178
+OL,9, FMetals....C137Vj FTomorrow's BBC2.C178
+OL,10,F Softs.....C138VjFTop 3O...........C176
+OL,11,                VjFTourist exchange     
+OL,12,FRadio......C174VjF rates...........C189
+OL,13,FRail news..C187VjFTransmitter newsC 196
+OL,14,FRecipe.....C167VjFTravel news indexC18O
+OL,15,FRoad newsCP84-5Vj                      
+OL,16,F               VjFVegetable prices C165
+OL,17,FShares...C131-2VjF                     
+OL,18,FSofts......C138VjFWall Street......C127
+OL,19,FSport:         VjFWeather index....C180
+OL,20,F HeadlinesC 14OVjF Maps............C181
+OL,21, FDetailsC141-59VjF Forecasts.......C182
+OL,22,FStocks.....C128VjFFIn the resorts..C183
+OL,23,FSubtitles..C17OVj                      

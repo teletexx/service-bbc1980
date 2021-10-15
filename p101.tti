@@ -1,0 +1,28 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p101.tti
+PN,10100
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 101  Tue 23 Dec C17:01/04
+OL,1,T]      (                               
+OL,2,T]VBBC    pjwsjw{5#}j5 j7k5s1s1   
+OL,3,T]VNEWS    jupj5j5p?ju0j5j5p0pz5   
+OL,4,T]                                      
+OL,6, Unemployment:BNumber out of work       
+OL,7,Breaches new post-war recordG........104
+OL,9,GIndustry:BTransport Workers' Union     
+OL,10,Bmakes BL strike officialG...........110
+OL,11,BVote on British Steel survival planG111
+OL,13, Iran:BSwiss diplomat visits three of   
+OL,14,Bthe US hostagesG....................102
+OL,15,BBomb attack on Iranian prosecutorG..103
+OL,17, FTwo killed in aircraft explosionG107  
+OL,18, FMao's widow again disrupts courtG114  
+OL,19, FStrike over Polish meat suppliesG113  
+OL,21,GFinance:BChase Manhattan cuts rateG.127
+OL,23,T]FNews IndexG190FFinanceG120FSportG145 
+OL,24,ANext  BFinance  CSport   FWeather      
+FL,102,120,140,180,8ff,8ff

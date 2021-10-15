@@ -1,0 +1,31 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p183.tti
+PN,18300
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 183  Tue 23 Dec C17:01/04
+OL,1,T]                                      
+OL,2,T]S555    =5     Caround Britain in     
+OL,3,T]S555w5s5575w57%C24 hours to 6pm on    
+OL,4,T]Suu5u4u5555u45 CMonday December 22    
+OL,5,T]                                      
+OL,6,          F SUN  RAIN  TEMPS            
+OL,7,            hrs  ins GMin Max           
+OL,8,CScarboro'  0.6  0.01  2  10 cloudy     
+OL,9,FLowestoft  ---  ----  0   9 cloudy     
+OL,10,CClacton    1.0  ----  2  10 cloudy     
+OL,11,FEastborne  3.4  0.03  4  11 sunny ints 
+OL,12,CBrighton   1.2  0.02  3  10 Rain am    
+OL,13,FShanklin   2.0  ----  3  11 sunny ints 
+OL,14,CWeymouth   0.6  ----  6  11 cloudy     
+OL,15,FDouglas    ---  0.09  8  10 rain pm    
+OL,16,CBlackpool  0.3  0.02  6  10 rain pm    
+OL,17,FAnglesey   0.3  0.04  8  11 rain pm    
+OL,18,CScillies   ---  0.03 10  11 rain am    
+OL,19,FWick       ---  0.08  3   6 showers    
+OL,20,CDyce       0.5  0.04  1   9 cloudy     
+OL,21,FPrestwick  ---  0.13  5  10 showers am 
+OL,23,T]C Weather MapsG181C Weather EyeG182   

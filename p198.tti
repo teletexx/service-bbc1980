@@ -1,0 +1,32 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p198.tti
+PN,19800
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 198  Tue 23 Dec C17:01/08
+OL,1,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@01
+OL,2,W^OsSZV^_XDM]CENGINEERING R\L^sUNQOTOG02
+OL,3,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@03
+OL,4,~~~~~~~~~~~~~~~~~~~04
+OL,5,TZ^sQYU@UAAUM]BTest Page  \L^RsVPS@WPA05
+OL,6,~~~~~~~~~~~~~~~~~~~06
+OL,7,RT%%R)I^)^(W,7SV6RRRUUQQTTT)bTTQR%R%RI57
+OL,8,~~~~~~~~~~~~~~~~~~~08
+OL,9,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@09
+OL,10,~~~~~~~~~~~~~~~~~~~10
+OL,11,A@AIAIQRQRIRQRC@ARQR%RQRQRA@ARA$QR%RA$11
+OL,12,~~~~~~~~~~~~~~~~~~~12
+OL,13,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@13
+OL,14,~~~~~~~~~~~~~~~~~~~26
+OL,15,A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@A@15
+OL,16,~~~~~~~~~~~~~~~~~~~16
+OL,17,WhiteCYellowFCyanBGreenEMagentaARedDBlue
+OL,18,WZQ"%S$%&'V()*+R,-./Y0123U4567Q89:[T<=^?
+OL,19,  !"# $%&' ()*+ ,-./ 0123 4567 89:[ <=>?
+OL,20, @ABC DEFG HIJK LMNO PQRS $UVW XYZ[ \]^_
+OL,21, `abc defg hijk lmno pqrs tuvw xyz{ |}~
+OL,22,T`bbcQdefgUhijkRlmngZpqrsVtuvwSxyz{W|}~
+OL,23,CXConcealHFlashC*KKBoxISteadyXGoneJJ?&^

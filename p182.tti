@@ -1,0 +1,30 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p182.tti
+PN,18200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 182  Tue 23 Dec C17:01/04
+OL,1,T]W|h4|h|$|l4l<h4|h|$|l4 |<ht|h|$       
+OL,2,T]W/.-/*-$/+%*%*'/*-$/+$ /,(,/*-$       
+OL,3,CMForecast for 0600 To 2400 Tuesday     
+OL,5,F                        T]             
+OL,6,FA deep depression will  D]   W|t     
+OL,7,Fmove away from northern T] Wxv}   
+OL,8,FScotland and a frontal  T] Wo'   
+OL,9,Ftrough will move quicklyD] S  ;?1     
+OL,10,Cacross Britain.         T]  S& j "$    
+OL,11,F                        T              
+OL,12, T]             \FMany places will have 
+OL,13, T]   %RV|t   \Fa dull start.CClearerV
+OL,14, T]  Vxv}  \Fweather will spread to
+OL,15, T]  Vo'  \Fmost areas during the 
+OL,16, D]d  G' '''    \Fmorning. Mild in many 
+OL,17, T]    G'' '    \Fplaces turning fresher
+OL,18, T]             \Fin the afternoon. Very
+OL,19,                 Fwindy in the north.   
+OL,21,COUTLOOK FOR WEDNESDAY AND THURSDAY:    
+OL,22,FRain at first, and mild, becoming      
+OL,23,Fbrighter by Christmas and colder.      

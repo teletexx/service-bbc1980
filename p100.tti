@@ -1,0 +1,57 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p100.tti
+PN,10001
+SC,0001
+PS,8000
+CT,10,T
+RE,0
+OL,0,        CEEFAX 100  Tue 23 Dec C17:01/10
+OL,1,T]    S`ppppp    `ppppp    `ppppp       
+OL,2,T]SBBCSj#ssh||||j#ssh||||j#s#h||||  
+OL,3,T]S###Sj j ,lj ,.j ,lj s j0/`  
+OL,4,T]W   Sj|||jpssjjpj||j    
+OL,5,T]W   S     (.////    (.////    (.////  
+OL,6,T,,,,,,,,,,,,,,,,,,,,,,,<,,,,,,,,,,,,,,,
+OL,7,CNEWS HEADLINESG....1O1T5CFOR THE DEAF  
+OL,8,CNEWS IN DETAILG1O2-119T5G..........169 
+OL,9,CNEWS FLASHG........15OT=,,,,,,,,,,,,,,,
+OL,10,CNEWS INDEXG........19OT5CTV/RADIOG171-4
+OL,11,CNEWSREELG..........199T5CTV CHOICEG177 
+OL,12,T,,,,,,,,,,,,,,,,,,,,,,,5CTOMORROWG 178 
+OL,13,CFINANCE HEADLINESG.12OT=,,,,,,,,,,,,,,,
+OL,14,CFINANCIAL NEWSG121-139T5CSUBTITLESG170 
+OL,15,T,,,,,,,,,,,,,,,,,,,,,,,5C              
+OL,16,CSPORT HEADLINESG...14OT=,,,,,,,,,,,,,,,
+OL,17,CSPORT PAGESG...141-159T5CWEATHER/TRAVEL
+OL,18,T,,,,,,,,,,,,,,,,,,,,,,,5CINDEXG....18O 
+OL,19,CFOOD GUIDEG........161T=,,,,,,,,,,,,,,,
+OL,20,CFARMINGG...........168T5CINDEXG193-5   
+OL,21,T,,,,,,,,,,,,,,,,,,,,,,,-,,,,,,,,,,,,,,,
+OL,22,  MCHRISTMAS WITH CEEFAXCBBC2 200       
+OL,24,AHeadlines BSport CFinance FAlarm Clock 
+FL,101,140,120,160,8ff,8ff
+PN,10002
+SC,0002
+PS,8000
+CT,15,T
+RE,0
+OL,0,XXXXXXXXTEEFAX %%# %%a %d %%b C %H:%M.%S
+OL,1,CEEFAX snapshot from                    
+OL,2,Tuesday, 23rd December. 1980.           
+OL,3,It was restored from VHS and            
+OL,4,was supplied by                         
+OL,5,Discord user T&CsApply.                 
+OL,7, About the capture                      
+OL,9, It was a very short capture of 18      
+OL,10, seconds so there are no subpages. A    
+OL,11, large number of pages are missing.     
+OL,13, Obvious errors have been fixed up.     
+OL,14, There are some parts corrupted beyond  
+OL,15, repair and there are missing rows.     
+OL,17, The Fastext links have been added for  
+OL,18, convenience.                           
+OL,20, However, it is a very fine example of  
+OL,21, the design of early Ceefax.            
+OL,24,AHeadlines BSport CFinance FAlarm Clock 
+FL,101,140,120,160,8ff,8ff

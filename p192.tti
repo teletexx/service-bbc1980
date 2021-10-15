@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p192.tti
+PN,19200
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 192  Tue 23 Dec C17:01/07
+OL,1,T]  S`ppppp    `ppppp    `ppppp
+OL,2,T]  Sj#s#h||||j#ssh||||j#s#h||||BH
+OL,3,T]  Sj j ,lj ,.j ,lj s j0/`
+OL,4,T]  Sj|||jpssjjpj||j  
+OL,5,T]  S     (.////    (.////    (.////
+OL,6,T]  S
+OL,7,T]            CON SHOW
+OL,8,T]        S################
+OL,9,T] G
+OL,10,T]1G
+OL,11,T] G
+OL,12,T] G
+OL,13,T] G       News about Ceefax
+OL,14,T] G       demonstrations
+OL,15,T] G       appears on this
+OL,16,T] G       page...
+OL,17,T] G
+OL,18,T] G
+OL,19,T] G
+OL,20,T]
+OL,21,T]
+OL,22,U]  CQuick guide to BBC2...pageG100
+OL,23,T]S  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,24,ANext  BFinance  CSport   FWeather
+FL,193,120,140,180,8ff,8ff   

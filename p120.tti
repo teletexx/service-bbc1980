@@ -1,0 +1,31 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p120.tti
+PN,12000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 120  Tue 23 Dec C17:01/09
+OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,Ss{%s{%#+%Q##j5##juz5#jws1jj5ss
+OL,3,S/,.%/,.%/,.%Q/,,*% / (,.%/ /*-,$/..%,,/
+OL,4,V,,,,,,,,,,,,,,CHEADLINESV,,,,,,,,,,,,,,
+OL,6,FAgrochemical merger terms announcedC123
+OL,7,FGKN and Brambles form joint ventureC123
+OL,9,FChase cuts primeC127FJapan now No 1C122
+OL,11,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,12,MCFT INDEXF  3pm:  up 0.6 at 465.2  C130
+OL,13,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,14,C STERLINGF$2.3740 (+2.2c)CEFF#F77.8C135
+OL,15,C GOLD/OZ F$602.50 at London PM Fix C136
+OL,16,V,,,,,CREPORTSV,,,,l,,,,,,CPRICESV,,,,,,
+OL,17,FBids & IssuesC124VjFShares.......C131/2
+OL,18,FCompanies....C125VjFGilts..........C133
+OL,19,FWorld MarketsC126VjFMoney Rates....C134
+OL,20,FWall Street..C127VjFMetals.........C137
+OL,21,FStock MarketsC128VjFSofts..........C138
+OL,22,FForex........C129VjFDiary..........C139
+OL,23,V,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,,,,,,,,
+OL,24,ANext  BFinance  CSport   FWeather
+FL,121,120,140,180,8ff,8ff

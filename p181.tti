@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p181.tti
+PN,18100
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 181  Tue 23 Dec C17:01/04
+OL,1,T]G              ^V   `p p0       G  2/2
+OL,2,T]W555    =5     ^Vh* u%
+OL,3,T]W555w5s5575w57 ^V# V7    FRAIN,
+OL,4,T]Wuu5u4u5555u45 ^V ~|||4 Fsometimes
+OL,5,T]            G ^V`"j5 Fheavy,
+OL,6,T]GTONIGHT       V`0G3V% Fspreading
+OL,7,T]G             ^V"!k?!  Ffrom the
+OL,8,T]G             ^V 8j0  Fwest
+OL,9,T]BCLOUDY and    ^V j"
+OL,10,T]BWET      R`<||4 VzG5V5
+OL,11,T]G       ^R(n G5R} V??0
+OL,12,T]G       Wh,.R*% V0ht
+OL,13,T]G      ^Wa5    Rj%  V! U4
+OL,14,T]G       W       j  Up  jG7U
+OL,15,T]EBecoming CLOUDY,  U(||~4
+OL,16,T]Esome RAIN or       U*p|t
+OL,17,T]EDRIZZLE later      U G7U5
+OL,18,T]G    ^              U~%
+OL,19,T]G     ^W          Uo?%
+OL,20,T]G                   U#/G8S|||
+OL,21,T]CMISTY, some rain  ^S!
+OL,22,T]+or*drizzle*22)2)^W29S///c###
+OL,23,T]G               ^S.##'
+OL,24,ANext  BFinance  CSport   FWeather
+FL,182,120,140,180,8ff,8ff          

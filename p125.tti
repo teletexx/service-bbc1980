@@ -1,0 +1,28 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p125.tti
+PN,12500
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 125  Tue 23 Dec C17:01/17
+OL,1,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,G 1/3 
+OL,2,Ss{%s{%#+%Q##j5##juz5#jws1jj5ss
+OL,3,S/,.%/,.%/,.%Q/,,*% / (,.%/ /*-,$/..%,,/
+OL,4,V,,,,,,,,,,,CCOMPANY RESULTSV,,,,,,,,,,,
+OL,5,               F                        
+OL,6,CForminster                             
+OL,7,F(Ladies and childrens outerwear)       
+OL,8,FInterim: 1.68p (same)                  
+OL,9,FPre-tax profit: #323,563 (#364,048)    
+OL,10,FTurnover: #6.67m (#7.56m)              
+OL,12,CHanover Investments                    
+OL,13,F(Fomerly Sobranie Holdings)            
+OL,14,FInterim: 0.7p (same)                   
+OL,15,FPre-tax profit: #102,000 (#100,000)    
+OL,16,FTurnover:)#3.31m (#3.4m)               
+OL,18,CLondon & Associated Investment Trust   
+OL,19,FHalf-year figures:                     
+OL,20,FPre-tax profit: #229,000 (loss #34,000)
+OL,23,V,,,,,,,,,,,CSHARE PRICESG132V,,,,,,,,,,

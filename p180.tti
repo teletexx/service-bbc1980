@@ -1,0 +1,34 @@
+DE,Description goes here
+DS,inserter
+SP,/run/user/1000/gvfs/smb-share:server=pistora,share=shared/peter/projects/BBCteletext1980/1980-12-23_BBC1_restored_t42s/p180.tti
+PN,18000
+SC,0000
+PS,8000
+CT,8,T
+RE,0
+OL,0,        CEEFAX 180  Tue 23 Dec C17:01/03
+OL,1,T]
+OL,2,T]             Sx~t
+OL,3,T]            Sh}0              W`
+OL,4,T]W,./.,,|tp<$Su     W(o?///'
+OL,5,T]W,t0ppppp,$Sj= Wpp0W(/|||||$
+OL,6,T]W "n|||~}z0S,n,,,*n,2W####sssqzqpppp
+OL,7,T]W    ###    S"#     W####! |~sqp
+OL,8,T]S             S#/'#!            W"####
+OL,9,T]G181CMAPS     R         j5j5
+OL,10,T]G182CFORECAST R  jw{5ssj7j7k5sj7+
+OL,11,T]G183CRESORTS  Rzujup0pjuj5j5ppj5
+OL,12,T]G
+OL,13,T]R##             j5
+OL,14,T]R  #%ssj5j5sj5
+OL,15,T]R    p*uz%ppj5
+OL,16,T]                                      
+OL,17,T]G184CTODAY'S ROAD TROUBLE-SPOTS
+OL,18,T]G185CLONG-TERM ROAD NEWS
+OL,19,T]G186CSTANDBY FLIGHT INFORMATION
+OL,20,T]G187CCHRISTMAS RAIL NEWS
+OL,21,T]G188CBRITISH RAIL WARNING
+OL,22,T]G189CTOURIST EXCHANGE RATES
+OL,23,T]   )
+OL,24,ANext  BFinance  CSport   FTravel
+FL,181,120,140,180,8ff,8ff
